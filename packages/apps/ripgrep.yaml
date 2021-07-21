@@ -6,5 +6,4 @@ labels:
   - cli
   - utils
 formulas:
-  apt: ripgrep
   cargo: ripgrep

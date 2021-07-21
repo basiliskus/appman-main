@@ -16,3 +16,5 @@ custom-formulas:
         && sudo apt install -y yq
       uninstall: sudo apt remove -y yq
       installed: apt list --installed -qq yq
+    requires:
+      - gpg

@@ -1,5 +1,6 @@
 id: libreoffice
 name: LibreOffice
-labels: []
+labels:
+  - gui
 formulas:
   winget: LibreOffice.LibreOffice

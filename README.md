@@ -1,2 +1,3 @@
 # appman-main
-Main bucket for appman
+
+Main repository for appman
