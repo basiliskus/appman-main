@@ -5,5 +5,5 @@ labels:
   - cli
   - utils
 formulas:
-  scoop: jq
   apt: jq
+  scoop: jq

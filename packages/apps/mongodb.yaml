@@ -6,7 +6,7 @@ labels:
   - dev-tools
   - db
 formulas:
-  scoop: mongodb
-  choco: mongodb
-  winget: MongoDB.Server
   apt: mongodb
+  choco: mongodb
+  scoop: mongodb
+  winget: MongoDB.Server

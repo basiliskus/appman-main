@@ -6,5 +6,6 @@ labels:
   - cli
   - utils
 formulas:
-  scoop: ffmpeg
+  apt: ffmpeg
   choco: ffmpeg
+  scoop: ffmpeg

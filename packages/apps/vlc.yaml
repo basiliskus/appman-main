@@ -4,5 +4,6 @@ labels:
   - gui
   - media
 formulas:
+  apt: vlc
   choco: vlc
   winget: VideoLAN.VLC

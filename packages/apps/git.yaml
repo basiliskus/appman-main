@@ -5,6 +5,6 @@ labels:
   - cli
   - dev-tools
 formulas:
+  apt: git
   scoop: git
   winget: Git.Git
-  apt: git

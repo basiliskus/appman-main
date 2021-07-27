@@ -7,4 +7,5 @@ labels:
   - dev-tools
   - prog-langs
 formulas:
+  apt: php
   scoop: php

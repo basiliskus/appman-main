@@ -4,4 +4,6 @@ labels:
   - gui
   - browser
 formulas:
+  apt: google-chrome-stable
+  scoop: googlechrome
   winget: Google.Chrome

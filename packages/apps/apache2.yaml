@@ -5,5 +5,5 @@ labels:
   - cli
   - web-server
 formulas:
-  scoop: apache
   apt: apache2
+  scoop: apache

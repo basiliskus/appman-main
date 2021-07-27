@@ -4,4 +4,5 @@ labels:
   - gui
   - dev-tools
 formulas:
+  choco: virtualbox
   winget: Oracle.VirtualBox

@@ -6,8 +6,8 @@ description: Cross-platform automation and configuration tool/framework, known a
 labels:
   - cli
 formulas:
-  scoop: pwsh
   choco: powershell-core
+  scoop: pwsh
   winget: Microsoft.PowerShell-Preview
 custom-formulas:
   - os: ubuntu

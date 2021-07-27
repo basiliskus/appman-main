@@ -4,4 +4,5 @@ labels:
   - gui
   - books
 formulas:
+  choco: calibre
   winget: calibre.calibre

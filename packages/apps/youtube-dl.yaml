@@ -6,5 +6,8 @@ labels:
   - cli
   - utils
 formulas:
+  apt: youtube-dl
   scoop: youtube-dl
   choco: youtube-dl
+requires:
+  - ffmpeg

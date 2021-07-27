@@ -7,5 +7,5 @@ labels:
   - dev-tools
   - db
 formulas:
-  scoop: mysql
   apt: mysql-server
+  scoop: mysql

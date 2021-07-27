@@ -5,7 +5,7 @@ labels:
   - cli
   - security
 formulas:
-  scoop: gnupg
-  choco: gnupg
-  winget: GnuPG.GnuPG
   apt: gpg
+  choco: gnupg
+  scoop: gnupg
+  winget: GnuPG.GnuPG

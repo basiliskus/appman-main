@@ -5,5 +5,5 @@ labels:
   - cli
   - dev-tools
 formulas:
-  scoop: shellcheck
   apt: shellcheck
+  scoop: shellcheck

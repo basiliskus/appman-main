@@ -5,5 +5,6 @@ labels:
   - network
   - utils
 formulas:
+  apt: wireshark
   choco: wireshark
   winget: WiresharkFoundation.Wireshark

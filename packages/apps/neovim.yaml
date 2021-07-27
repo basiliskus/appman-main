@@ -5,4 +5,5 @@ labels:
   - cli
   - editor
 formulas:
+  apt: neovim
   scoop: neovim

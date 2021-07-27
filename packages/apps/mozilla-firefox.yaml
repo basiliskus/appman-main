@@ -4,5 +4,6 @@ labels:
   - gui
   - browser
 formulas:
+  apt: firefox
   choco: firefox
   winget: Mozilla.Firefox

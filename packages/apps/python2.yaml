@@ -5,5 +5,6 @@ labels:
   - dev-tools
   - prog-langs
 formulas:
+  apt: python2
   choco: python2
   winget: Python.Python.2

@@ -5,7 +5,7 @@ labels:
   - dev-tools
   - db
 formulas:
-  scoop: postgresql
-  choco: postgresql
-  winget: PostgreSQL.PostgreSQL
   apt: postgresql
+  choco: postgresql
+  scoop: postgresql
+  winget: PostgreSQL.PostgreSQL

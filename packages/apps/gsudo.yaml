@@ -7,4 +7,5 @@ labels:
   - utils
 formulas:
   choco: gsudo
+  scoop: gsudo
   winget: gerardog.gsudo

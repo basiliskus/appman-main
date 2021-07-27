@@ -4,4 +4,5 @@ labels:
   - gui
   - utils
 formulas:
+  choco: filezilla
   winget: TimKosse.FileZillaClient

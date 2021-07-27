@@ -4,4 +4,5 @@ labels:
   - gui
   - notes
 formulas:
+  choco: notion
   winget: Notion.Notion

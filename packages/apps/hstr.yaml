@@ -5,3 +5,5 @@ description: bash and zsh shell history suggest box - easily view, navigate,
 homepage: https://github.com/dvorka/hstr/
 labels:
   - cli
+formulas:
+  apt: hstr

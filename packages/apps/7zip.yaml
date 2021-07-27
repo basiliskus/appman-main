@@ -5,7 +5,7 @@ labels:
   - cli
   - utils
 formulas:
-  scoop: 7zip
-  choco: 7zip
-  winget: 7zip.7zip
   apt: p7zip-full
+  choco: 7zip
+  scoop: 7zip
+  winget: 7zip.7zip

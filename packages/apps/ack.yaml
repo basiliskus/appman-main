@@ -5,6 +5,6 @@ labels:
   - cli
   - utils
 formulas:
-  scoop: ack
-  choco: ack
   apt: ack
+  choco: ack
+  scoop: ack

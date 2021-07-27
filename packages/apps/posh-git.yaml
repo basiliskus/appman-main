@@ -6,5 +6,5 @@ notes: for scoop, need to run afterwards Add-PoshGitToProfile
 labels:
   - cli
 formulas:
-  scoop: posh-git
   choco: poshgit
+  scoop: posh-git

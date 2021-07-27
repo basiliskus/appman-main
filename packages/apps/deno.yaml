@@ -5,8 +5,8 @@ labels:
   - cli
   - dev-tools
 formulas:
-  scoop: deno
   choco: deno
+  scoop: deno
 custom-formulas:
   - os: unix-like
     commands:

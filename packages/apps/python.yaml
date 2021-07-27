@@ -7,7 +7,7 @@ labels:
   - dev-tools
   - prog-langs
 formulas:
-  scoop: python
-  choco: python
-  winget: Python.Python
   apt: python3.9
+  choco: python
+  scoop: python
+  winget: Python.Python

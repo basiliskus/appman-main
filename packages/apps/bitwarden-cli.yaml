@@ -6,4 +6,6 @@ labels:
   - cli
   - security
 formulas:
+  choco: bitwarden-cli
   npm: '@bitwarden/cli'
+  scoop: bitwarden-cli

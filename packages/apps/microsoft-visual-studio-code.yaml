@@ -6,8 +6,8 @@ labels:
   - editor
 formulas:
   choco: vscode
-  winget: Microsoft.VisualStudioCode
   snap: code
+  winget: Microsoft.VisualStudioCode
 custom-formulas:
   - os: ubuntu
     commands:

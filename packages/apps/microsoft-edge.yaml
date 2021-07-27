@@ -4,4 +4,5 @@ labels:
   - gui
   - browser
 formulas:
+  choco: microsoft-edge
   winget: Microsoft.Edge
