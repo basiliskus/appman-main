@@ -7,3 +7,4 @@ labels:
 formulas:
   apt: fzf
   choco: fzf
+  pacman: fzf

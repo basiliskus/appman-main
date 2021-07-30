@@ -6,4 +6,5 @@ labels:
   - dev-tools
   - prog-langs
 formulas:
+  pacman: ruby
   scoop: ruby

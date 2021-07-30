@@ -5,6 +5,7 @@ labels:
   - cli
   - utils
 formulas:
+  pacman: yq
   scoop: yq
 custom-formulas:
   - os: ubuntu

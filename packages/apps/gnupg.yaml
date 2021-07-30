@@ -7,5 +7,6 @@ labels:
 formulas:
   apt: gpg
   choco: gnupg
+  pacman: gnupg
   scoop: gnupg
   winget: GnuPG.GnuPG

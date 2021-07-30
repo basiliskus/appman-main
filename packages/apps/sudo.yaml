@@ -5,4 +5,5 @@ labels:
   - cli
   - utils
 formulas:
+  pacman: sudo
   scoop: sudo

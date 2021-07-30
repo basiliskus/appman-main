@@ -4,6 +4,8 @@ description: Open Source Continuous File Synchronization
 labels:
   - cli
   - utils
+formulas:
+  pacman: syncthing
 custom-formulas:
   - os: ubuntu
     commands:

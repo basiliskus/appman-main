@@ -7,5 +7,6 @@ labels:
 formulas:
   apt: imagemagick
   choco: imagemagick
+  pacman: imagemagick
   scoop: imagemagick
   winget: ImageMagick.ImageMagick

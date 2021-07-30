@@ -8,4 +8,5 @@ labels:
 formulas:
   apt: silversearcher-ag
   choco: ag
+  pacman: the_silver_searcher
   winget: "The Silver Searcher"

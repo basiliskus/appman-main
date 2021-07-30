@@ -8,4 +8,5 @@ labels:
   - db
 formulas:
   apt: redis
+  pacman: redis
   scoop: redis

@@ -8,4 +8,5 @@ labels:
   - prog-langs
 formulas:
   apt: php
+  pacman: php
   scoop: php

@@ -8,4 +8,5 @@ labels:
 formulas:
   apt: ripgrep
   cargo: ripgrep
+  pacman: ripgrep
   scoop: ripgrep

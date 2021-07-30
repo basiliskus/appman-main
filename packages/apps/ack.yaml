@@ -7,4 +7,5 @@ labels:
 formulas:
   apt: ack
   choco: ack
+  pacman: ack
   scoop: ack

@@ -6,4 +6,5 @@ labels:
   - editor
 formulas:
   apt: neovim
+  pacman: neovim
   scoop: neovim

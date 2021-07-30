@@ -7,3 +7,4 @@ labels:
   - utils
 formulas:
   apt: translate-shell
+  pacman: translate-shell

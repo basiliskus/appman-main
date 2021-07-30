@@ -7,4 +7,5 @@ labels:
   - utils
 formulas:
   apt: bat
+  pacman: bat
   scoop: bat

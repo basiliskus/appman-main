@@ -5,3 +5,4 @@ labels:
   - security
 formulas:
   apt: pass
+  pacman: pass

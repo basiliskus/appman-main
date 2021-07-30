@@ -8,4 +8,5 @@ labels:
   - web-server
 formulas:
   apt: nginx
+  pacman: nginx
   scoop: nginx

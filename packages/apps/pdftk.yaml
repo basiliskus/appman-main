@@ -6,4 +6,5 @@ labels:
   - utils
 formulas:
   apt: pdftk
+  pacman: pdftk
   scoop: pdftk

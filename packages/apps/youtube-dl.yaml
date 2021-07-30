@@ -7,7 +7,8 @@ labels:
   - utils
 formulas:
   apt: youtube-dl
-  scoop: youtube-dl
   choco: youtube-dl
+  pacman: youtube-dl
+  scoop: youtube-dl
 requires:
   - ffmpeg

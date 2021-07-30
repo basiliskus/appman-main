@@ -5,3 +5,4 @@ labels:
   - music
 formulas:
   apt: mopidy
+  pacman: mopidy

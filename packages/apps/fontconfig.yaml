@@ -3,3 +3,4 @@ name: fontconfig
 labels: []
 formulas:
   apt: fontconfig
+  pacman: fontconfig

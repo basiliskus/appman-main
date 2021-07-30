@@ -6,4 +6,5 @@ labels:
   - dev-tools
 formulas:
   apt: shellcheck
+  pacman: shellcheck
   scoop: shellcheck

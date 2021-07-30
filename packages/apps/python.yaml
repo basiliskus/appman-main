@@ -9,5 +9,6 @@ labels:
 formulas:
   apt: python3.9
   choco: python
+  pacman: python
   scoop: python
   winget: Python.Python

@@ -5,3 +5,4 @@ labels:
   - editor
 formulas:
   apt: emacs
+  pacman: emacs

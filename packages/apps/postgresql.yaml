@@ -7,5 +7,6 @@ labels:
 formulas:
   apt: postgresql
   choco: postgresql
+  pacman: postgresql
   scoop: postgresql
   winget: PostgreSQL.PostgreSQL

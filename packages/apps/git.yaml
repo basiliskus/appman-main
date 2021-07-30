@@ -6,5 +6,6 @@ labels:
   - dev-tools
 formulas:
   apt: git
+  pacman: git
   scoop: git
   winget: Git.Git

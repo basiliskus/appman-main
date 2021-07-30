@@ -4,3 +4,4 @@ labels:
   - cli
 formulas:
   apt: zsh
+  pacman: zsh

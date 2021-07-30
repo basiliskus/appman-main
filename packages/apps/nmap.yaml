@@ -5,4 +5,5 @@ labels:
   - cli
   - security
 formulas:
+  pacman: nmap
   scoop: nmap

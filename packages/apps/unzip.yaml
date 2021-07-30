@@ -5,3 +5,4 @@ labels:
   - utils
 formulas:
   apt: unzip
+  pacman: unzip

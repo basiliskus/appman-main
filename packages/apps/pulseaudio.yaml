@@ -4,3 +4,4 @@ homepage: https://www.freedesktop.org/wiki/Software/PulseAudio/
 labels: []
 formulas:
   apt: pulseaudio
+  pacman: pulseaudio

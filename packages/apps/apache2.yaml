@@ -6,4 +6,5 @@ labels:
   - web-server
 formulas:
   apt: apache2
+  pacman: apache
   scoop: apache

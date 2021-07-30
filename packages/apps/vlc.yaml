@@ -6,4 +6,5 @@ labels:
 formulas:
   apt: vlc
   choco: vlc
+  pacman: vlc
   winget: VideoLAN.VLC

@@ -6,3 +6,4 @@ labels:
   - utils
 formulas:
   apt: curl
+  pacman: curl

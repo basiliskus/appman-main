@@ -7,4 +7,5 @@ labels:
 formulas:
   apt: python2
   choco: python2
+  pacman: python2
   winget: Python.Python.2
