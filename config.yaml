@@ -24,6 +24,7 @@ package-managers:
     vscode:
       any: [ vscode-extension ]
 tags:
+  - audio
   - cli
   - gui
   - books

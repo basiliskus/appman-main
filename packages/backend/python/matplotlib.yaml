@@ -1,6 +1,7 @@
 id: matplotlib
 name: matplotlib
-requires: gnuplot
+requires:
+  - gnuplot
 labels: []
 formulas:
   pip: matplotlib
