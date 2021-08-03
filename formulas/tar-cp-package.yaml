@@ -5,6 +5,8 @@ commands:
     && wget -q -O ~/tmp/${NAME} $source
     && sudo tar -C $destination -xzf ~/tmp/${NAME}
     && rm ~/tmp/${NAME}
+  uninstall: sudo rm $destination
+  installed: ls $destination
 args:
   - source
   - destination
