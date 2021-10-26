@@ -5,9 +5,10 @@ labels:
   - network
   - security
 formulas:
+  pacman: innernet
+custom-formulas:
   apt-deb-package:
     name: innernet
     source: https://github.com/tonarino/innernet/releases/download/v1.4.1/innernet_1.4.1_amd64.deb
-  pacman: innernet
 requires:
   - wireguard
