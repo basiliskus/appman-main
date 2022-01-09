@@ -8,6 +8,7 @@ labels:
   - prog-langs
 formulas:
   apt: python3.9
+  brew: python
   choco: python
   pacman: python
   scoop: python

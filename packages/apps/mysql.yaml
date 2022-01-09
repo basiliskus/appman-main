@@ -8,4 +8,5 @@ labels:
   - db
 formulas:
   apt: mysql-server
+  brew: mysql
   scoop: mysql

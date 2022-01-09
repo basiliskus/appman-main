@@ -6,6 +6,7 @@ labels:
   - security
 formulas:
   apt: gpg
+  brew: gnupg
   choco: gnupg
   pacman: gnupg
   scoop: gnupg

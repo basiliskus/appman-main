@@ -7,6 +7,7 @@ labels:
   - dev-tools
   - prog-langs
 formulas:
+  brew: go
   choco: golang
   scoop: go
   pacman: go

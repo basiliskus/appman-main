@@ -6,4 +6,5 @@ labels:
   - editor
 formulas:
   apt: nano
+  brew: nano
   pacman: nano

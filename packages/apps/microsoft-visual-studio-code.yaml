@@ -5,6 +5,7 @@ labels:
   - dev-tools
   - editor
 formulas:
+  # brew: --cask visual-studio-code
   choco: vscode
   snap: code
   winget: Microsoft.VisualStudioCode

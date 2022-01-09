@@ -7,6 +7,7 @@ labels:
   - utils
 formulas:
   apt: ffmpeg
+  brew: ffmpeg
   choco: ffmpeg
   pacman: ffmpeg
   scoop: ffmpeg

@@ -6,6 +6,7 @@ labels:
   - db
 formulas:
   apt: postgresql
+  brew: postgresql
   choco: postgresql
   pacman: postgresql
   scoop: postgresql

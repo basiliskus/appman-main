@@ -7,3 +7,4 @@ labels:
   - cli
 formulas:
   apt: hstr
+  brew: hstr

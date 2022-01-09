@@ -7,6 +7,7 @@ labels:
   - dev-tools
   - prog-langs
 formulas:
+  brew: rust
   choco: rust
   scoop: rust
   winget: Rustlang.rust-gnu
