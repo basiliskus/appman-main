@@ -6,6 +6,7 @@ labels:
   - utils
 formulas:
   apt: ack
+  brew: ack
   choco: ack
   pacman: ack
   scoop: ack

@@ -5,4 +5,5 @@ labels:
   - utils
 formulas:
   apt: tree
+  brew: tree
   pacman: tree

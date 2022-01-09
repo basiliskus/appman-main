@@ -5,6 +5,7 @@ labels:
   - cli
   - utils
 formulas:
+  brew: syncthing
   pacman: syncthing
 custom-formulas:
   - os: ubuntu

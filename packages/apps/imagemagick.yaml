@@ -6,6 +6,7 @@ labels:
   - utils
 formulas:
   apt: imagemagick
+  brew: imagemagick
   choco: imagemagick
   pacman: imagemagick
   scoop: imagemagick

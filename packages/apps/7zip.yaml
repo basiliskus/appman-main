@@ -6,6 +6,7 @@ labels:
   - utils
 formulas:
   apt: p7zip-full
+  brew: p7zip
   choco: 7zip
   pacman: p7zip
   scoop: 7zip

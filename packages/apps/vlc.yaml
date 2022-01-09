@@ -5,6 +5,7 @@ labels:
   - media
 formulas:
   apt: vlc
+  brew: vlc
   choco: vlc
   pacman: vlc
   winget: VideoLAN.VLC
