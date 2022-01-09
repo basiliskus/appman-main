@@ -1,7 +1,7 @@
 package-managers:
   app:
     arch: [ pacman, npm, pip, cargo, go, conda, nvm, snap ]
-    darwin: [ brew, npm, pip, cargo, go, conda, nvm ]
+    darwin: [ brew, mas, npm, pip, cargo, go, conda, nvm ]
     ubuntu: [ apt, npm, pip, cargo, go, conda, nvm, snap ]
     windows: [ scoop, choco, npm, pip, cargo, go, conda ]
   font:
