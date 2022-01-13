@@ -1,0 +1,11 @@
+id: exa
+name: exa
+description: A modern replacement for 'ls'
+homepage: https://github.com/ogham/exa
+labels:
+  - cli
+  - utils
+formulas:
+  apt: exa
+  brew: exa
+  pacman: exa

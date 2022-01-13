@@ -2,6 +2,7 @@ id: meslo-nf
 name: Meslo-NF
 labels: []
 formulas:
+  brew: font-meslo-lg-nerd-font
   font-local-share:
     source: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip
     fid: Meslo LG
