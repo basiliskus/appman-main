@@ -5,4 +5,5 @@ labels:
   - cli
   - utils
 formulas:
+  brew: glow
   scoop: glow

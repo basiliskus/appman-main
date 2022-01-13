@@ -6,5 +6,6 @@ labels:
   - utils
 formulas:
   apt: jq
+  brew: jq
   pacman: jq
   scoop: jq

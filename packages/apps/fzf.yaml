@@ -6,5 +6,6 @@ labels:
   - utils
 formulas:
   apt: fzf
+  brew: fzf
   choco: fzf
   pacman: fzf

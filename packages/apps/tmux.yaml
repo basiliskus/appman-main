@@ -4,4 +4,5 @@ labels:
   - cli
 formulas:
   apt: tmux
+  brew: tmux
   pacman: tmux

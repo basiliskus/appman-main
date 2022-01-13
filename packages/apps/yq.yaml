@@ -5,6 +5,7 @@ labels:
   - cli
   - utils
 formulas:
+  brew: yq
   pacman: yq
   scoop: yq
 custom-formulas:

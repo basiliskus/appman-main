@@ -5,4 +5,5 @@ labels:
   - music
 formulas:
   apt: ncmpcpp
+  brew: ncmpcpp
   pacman: ncmpcpp

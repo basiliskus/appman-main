@@ -6,5 +6,6 @@ labels:
   - security
 formulas:
   apt: nmap
+  brew: nmap
   pacman: nmap
   scoop: nmap

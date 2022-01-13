@@ -12,9 +12,9 @@ formulas:
   scoop: rust
   winget: Rustlang.rust-gnu
 custom-formulas:
-  - os: linux
+  - os: unix-like
     commands:
-      install: curl -s https://sh.rustup.rs -sSf | sh -s -- -y
+      install: curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
       uninstall: rustup self uninstall
       installed: command -v rustup
     requires:

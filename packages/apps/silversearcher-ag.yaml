@@ -7,6 +7,7 @@ labels:
   - utils
 formulas:
   apt: silversearcher-ag
+  brew: the_silver_searcher
   choco: ag
   pacman: the_silver_searcher
   winget: "The Silver Searcher"
