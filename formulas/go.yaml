@@ -1,6 +1,6 @@
 os: any
 commands:
-  install: go get -u $pmid
+  install: go install $pmid
   uninstall: go clean -i $pmid
   installed: command -v $name
 requires:
