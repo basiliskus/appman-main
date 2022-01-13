@@ -5,4 +5,5 @@ labels:
   - music
 formulas:
   apt: mopidy
+  brew: mopidy
   pacman: mopidy

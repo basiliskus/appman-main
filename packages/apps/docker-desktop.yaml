@@ -4,5 +4,6 @@ labels:
   - gui
   - dev-tools
 formulas:
+  brew: docker
   choco: docker-desktop
   winget: Docker.DockerDesktop
