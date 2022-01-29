@@ -5,4 +5,4 @@ labels:
   - utils
 formulas:
   choco: filezilla
-  winget: TimKosse.FileZillaClient
+  winget: TimKosse.FileZilla.Client

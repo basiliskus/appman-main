@@ -6,3 +6,4 @@ labels:
   - dev-tools
 formulas:
   choco: github-desktop
+  winget: GitHub.GitHubDesktop

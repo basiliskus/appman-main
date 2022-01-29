@@ -5,3 +5,4 @@ labels:
   - security
 formulas:
   choco: yubikey-manager
+  winget: Yubico.YubikeyManager

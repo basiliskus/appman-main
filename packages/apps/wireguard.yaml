@@ -7,3 +7,4 @@ labels:
 formulas:
   apt: wireguard
   pacman: wireguard-tools
+  winget: WireGuard.WireGuard

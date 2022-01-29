@@ -5,4 +5,4 @@ labels:
   - cloud
 formulas:
   choco: googledrive
-  winget: Google.DriveFileStream
+  winget: Google.Drive

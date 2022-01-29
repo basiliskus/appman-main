@@ -6,3 +6,4 @@ labels:
   - security
 formulas:
   choco: bitwarden
+  winget: bitwarden.bitwarden

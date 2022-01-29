@@ -5,4 +5,4 @@ labels:
   - security
 formulas:
   choco: yubikey-personalization-tool
-  winget: Yubico.YubikeyManager
+  winget: Yubico.YubiKeyPersonalizationTool
