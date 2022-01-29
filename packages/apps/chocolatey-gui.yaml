@@ -5,3 +5,4 @@ labels:
   - package-manager
 formulas:
   choco: chocolateygui
+  winget: Chocolatey.ChocolateyGUI
