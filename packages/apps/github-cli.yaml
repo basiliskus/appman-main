@@ -5,6 +5,7 @@ labels:
   - cli
   - dev-tools
 formulas:
+  brew: gh
   choco: gh
   conda:
     pmid: gh
