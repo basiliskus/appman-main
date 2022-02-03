@@ -5,4 +5,5 @@ homepage: https://github.com/denisidoro/navi
 labels:
   - cli
 formulas:
+  brew: navi
   cargo: navi

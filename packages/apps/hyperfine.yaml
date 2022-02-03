@@ -6,4 +6,6 @@ labels:
   - cli
   - utils
 formulas:
+  brew: hyperfine
   cargo: hyperfine
+  pacman: hyperfine

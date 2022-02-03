@@ -6,4 +6,7 @@ labels:
   - cli
   - utils
 formulas:
+  brew: procs
   cargo: procs
+  pacman: procs
+  scoop: procs

@@ -6,4 +6,5 @@ labels:
   - cli
   - utils
 formulas:
+  brew: dust
   cargo: du-dust

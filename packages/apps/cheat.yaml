@@ -5,4 +5,5 @@ homepage: https://github.com/cheat/cheat
 labels:
   - cli
   - utils
-  - dev-tools
+formulas:
+  go: github.com/cheat/cheat/cmd/cheat

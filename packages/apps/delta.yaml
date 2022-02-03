@@ -6,4 +6,7 @@ labels:
   - cli
   - utils
 formulas:
+  brew: git-delta
   cargo: git-delta
+  choco: delta
+  scoop: delta

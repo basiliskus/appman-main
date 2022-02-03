@@ -6,5 +6,9 @@ labels:
   - cli
   - utils
 formulas:
+  apt: fd-find
+  brew: fd
   cargo: fd-find
+  choco: fd
+  pacman: fd
   scoop: fd

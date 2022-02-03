@@ -6,4 +6,8 @@ labels:
   - cli
   - utils
 formulas:
+  brew: bottom
   cargo: bottom
+  choco: bottom
+  pacman: bottom
+  scoop: bottom
