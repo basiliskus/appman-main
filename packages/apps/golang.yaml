@@ -13,5 +13,5 @@ formulas:
   pacman: go
   winget: GoLang.Go
   tar-cp-package:
-    source: https://golang.org/dl/go1.16.5.linux-amd64.tar.gz
+    source: https://golang.org/dl/go1.17.6.linux-amd64.tar.gz
     destination: /usr/local
