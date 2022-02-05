@@ -1,0 +1,8 @@
+id: monoid-nf
+name: Monoid Nerd Font
+labels: []
+formulas:
+  brew: font-monoid-nerd-font
+  font-local-share:
+    source: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Monoid.zip
+    fid: Monoid
