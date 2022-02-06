@@ -6,3 +6,4 @@ labels:
   - cli
 formulas:
   npm: tldr
+  pip: tldr

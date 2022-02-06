@@ -7,4 +7,5 @@ labels:
   - utils
 formulas:
   brew: rs/tap/curlie
+  choco: httpie
   go: github.com/rs/curlie@latest

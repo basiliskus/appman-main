@@ -9,3 +9,4 @@ formulas:
   brew: fzf
   choco: fzf
   pacman: fzf
+  scoop: fzf
