@@ -4,3 +4,4 @@ labels:
   - gui
 formulas:
   choco: Cmder
+  scoop: cmder

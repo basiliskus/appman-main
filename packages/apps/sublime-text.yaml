@@ -5,4 +5,4 @@ labels:
   - editor
 formulas:
   choco: sublimetext3.app
-  winget: SublimeHQ.SublimeText
+  winget: SublimeHQ.SublimeText.4
