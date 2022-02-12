@@ -3,7 +3,7 @@ package-managers:
     arch: [ pacman, npm, pip, cargo, go, conda, nvm, snap ]
     darwin: [ brew, mas, npm, pip, cargo, go, conda, nvm ]
     ubuntu: [ apt, npm, pip, cargo, go, conda, nvm, snap ]
-    windows: [ winget, scoop, choco, npm, pip, cargo, go, conda ]
+    windows: [ winget, scoop, npm, pip, cargo, go, conda, choco ]
   font:
     arch: [ pacman ]
     darwin: [ brew ]
