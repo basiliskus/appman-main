@@ -5,5 +5,7 @@ labels:
   - cli
   - dev-tools
 formulas:
+  brew: tokei
   cargo: tokei
+  pacman: tokei
   scoop: tokei
