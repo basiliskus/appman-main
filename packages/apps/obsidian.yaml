@@ -3,5 +3,7 @@ name: Obsidian
 labels:
   - gui
   - notes
+  - editor
 formulas:
   choco: obsidian
+  winget: Obsidian.Obsidian
