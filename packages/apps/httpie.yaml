@@ -10,5 +10,6 @@ formulas:
   apt: httpie
   choco: httpie
   brew: httpie
+  dnf: httpie
   pacman: httpie
   pip: httpie

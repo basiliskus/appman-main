@@ -6,4 +6,5 @@ labels:
   - security
 formulas:
   apt: keychain
+  dnf: keychain
   pacman: keychain

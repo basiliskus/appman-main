@@ -8,3 +8,4 @@ labels:
 formulas:
   apt: hstr
   brew: hstr
+  dnf: hstr

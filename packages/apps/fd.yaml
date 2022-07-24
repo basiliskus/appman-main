@@ -10,5 +10,6 @@ formulas:
   brew: fd
   cargo: fd-find
   choco: fd
+  dnf: fd-find
   pacman: fd
   scoop: fd

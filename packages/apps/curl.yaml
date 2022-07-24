@@ -7,4 +7,5 @@ labels:
 formulas:
   apt: curl
   brew: curl
+  dnf: curl
   pacman: curl

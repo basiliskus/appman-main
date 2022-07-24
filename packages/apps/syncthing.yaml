@@ -6,6 +6,7 @@ labels:
   - utils
 formulas:
   brew: syncthing
+  dnf: syncthing
   pacman: syncthing
 custom-formulas:
   - os: ubuntu

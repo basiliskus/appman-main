@@ -8,4 +8,5 @@ labels:
 formulas:
   apt: exa
   brew: exa
+  dnf: exa
   pacman: exa

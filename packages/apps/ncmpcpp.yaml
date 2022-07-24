@@ -6,4 +6,5 @@ labels:
 formulas:
   apt: ncmpcpp
   brew: ncmpcpp
+  dnf: ncmpcpp
   pacman: ncmpcpp

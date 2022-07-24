@@ -7,5 +7,6 @@ labels:
   - dev-tools
   - prog-langs
 formulas:
+  dnf: perl
   pacman: perl
   scoop: perl

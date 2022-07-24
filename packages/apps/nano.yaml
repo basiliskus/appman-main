@@ -7,4 +7,5 @@ labels:
 formulas:
   apt: nano
   brew: nano
+  dnf: nano
   pacman: nano

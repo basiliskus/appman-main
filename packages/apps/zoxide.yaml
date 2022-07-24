@@ -10,4 +10,5 @@ formulas:
   apt: zoxide
   brew: zoxide
   cargo: zoxide --locked
+  dnf: zoxide
   scoop: zoxide

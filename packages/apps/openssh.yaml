@@ -6,3 +6,4 @@ labels:
   - security
 formulas:
   scoop: openssh
+  dnf: openssh

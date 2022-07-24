@@ -7,6 +7,7 @@ labels:
 formulas:
   apt: git
   brew: git
+  dnf: git
   pacman: git
   scoop: git
   winget: Git.Git

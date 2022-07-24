@@ -6,4 +6,5 @@ labels:
 formulas:
   apt: mopidy
   brew: mopidy
+  dnf: mopidy
   pacman: mopidy

@@ -7,5 +7,6 @@ labels:
 formulas:
   apt: aria2
   brew: aria2
+  dnf: aria2
   pacman: aria2
   scoop: aria2

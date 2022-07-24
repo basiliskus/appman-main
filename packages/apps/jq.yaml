@@ -7,5 +7,6 @@ labels:
 formulas:
   apt: jq
   brew: jq
+  dnf: jq
   pacman: jq
   scoop: jq

@@ -7,6 +7,7 @@ labels:
   - utils
 formulas:
   brew: bat
+  dnf: bat
   pacman: bat
   scoop: bat
   apt-deb-package:

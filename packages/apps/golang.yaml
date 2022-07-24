@@ -10,6 +10,7 @@ formulas:
   brew: go
   choco: golang
   scoop: go
+  dnf: go
   pacman: go
   winget: GoLang.Go
   tar-cp-package:

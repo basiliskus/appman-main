@@ -10,6 +10,7 @@ formulas:
   conda:
     pmid: gh
     channel: conda-forge
+  dnf: gh
   pacman: github-cli
   scoop: gh
   winget: GitHub.cli

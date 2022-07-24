@@ -7,5 +7,6 @@ labels:
 formulas:
   brew: tokei
   cargo: tokei
+  dnf: tokei
   pacman: tokei
   scoop: tokei

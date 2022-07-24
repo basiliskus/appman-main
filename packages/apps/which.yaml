@@ -6,4 +6,5 @@ labels:
   - utils
 formulas:
   brew: gnu-which
+  dnf: which
   pacman: which

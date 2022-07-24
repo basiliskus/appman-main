@@ -8,5 +8,6 @@ labels:
 formulas:
   brew: lsd
   cargo: lsd
+  dnf: lsd
   pacman: lsd
   scoop: lsd

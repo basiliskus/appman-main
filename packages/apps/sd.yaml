@@ -7,5 +7,6 @@ labels:
 formulas:
   brew: sd
   cargo: sd
+  dnf: sd
   pacman: sd
   scoop: sd

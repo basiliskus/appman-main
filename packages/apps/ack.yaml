@@ -8,5 +8,6 @@ formulas:
   apt: ack
   brew: ack
   choco: ack
+  dnf: ack
   pacman: ack
   scoop: ack

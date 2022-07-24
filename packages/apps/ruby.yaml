@@ -7,5 +7,6 @@ labels:
   - prog-langs
 formulas:
   brew: ruby
+  dnf: ruby
   pacman: ruby
   scoop: ruby

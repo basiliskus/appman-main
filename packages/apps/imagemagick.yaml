@@ -8,6 +8,7 @@ formulas:
   apt: imagemagick
   brew: imagemagick
   choco: imagemagick
+  dnf: imagemagick
   pacman: imagemagick
   scoop: imagemagick
   winget: ImageMagick.ImageMagick

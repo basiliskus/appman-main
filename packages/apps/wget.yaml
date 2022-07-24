@@ -6,4 +6,5 @@ labels:
 formulas:
   apt: wget
   brew: wget
+  dnf: wget
   pacman: wget

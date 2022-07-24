@@ -7,5 +7,6 @@ labels:
 formulas:
   apt: shellcheck
   brew: shellcheck
+  dnf: shellcheck
   pacman: shellcheck
   scoop: shellcheck

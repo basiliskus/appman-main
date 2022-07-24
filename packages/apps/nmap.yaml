@@ -7,5 +7,6 @@ labels:
 formulas:
   apt: nmap
   brew: nmap
+  dnf: nmap
   pacman: nmap
   scoop: nmap

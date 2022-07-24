@@ -9,5 +9,6 @@ formulas:
   apt: ffmpeg
   brew: ffmpeg
   choco: ffmpeg
+  dnf: ffmpeg
   pacman: ffmpeg
   scoop: ffmpeg

@@ -7,4 +7,5 @@ labels:
 formulas:
   apt: wireshark
   choco: wireshark
+  dnf: wireshark
   winget: WiresharkFoundation.Wireshark

@@ -6,4 +6,5 @@ labels:
 formulas:
   apt: tree
   brew: tree
+  dnf: tree
   pacman: tree

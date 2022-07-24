@@ -5,5 +5,6 @@ labels:
   - cli
   - utils
 formulas:
+  dnf: sudo
   pacman: sudo
   scoop: sudo

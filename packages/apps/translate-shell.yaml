@@ -7,4 +7,5 @@ labels:
   - utils
 formulas:
   apt: translate-shell
+  dnf: translate-shell
   pacman: translate-shell

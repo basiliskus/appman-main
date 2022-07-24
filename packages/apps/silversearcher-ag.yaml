@@ -9,5 +9,6 @@ formulas:
   apt: silversearcher-ag
   brew: the_silver_searcher
   choco: ag
+  dnf: the_silver_searcher
   pacman: the_silver_searcher
   winget: "The Silver Searcher"

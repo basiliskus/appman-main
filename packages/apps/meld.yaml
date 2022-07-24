@@ -7,3 +7,4 @@ labels:
   - utils
 formulas:
   brew: meld
+  dnf: meld

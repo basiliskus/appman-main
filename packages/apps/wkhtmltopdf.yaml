@@ -6,5 +6,6 @@ labels:
   - utils
 formulas:
   apt: wkhtmltopdf
+  dnf: wkhtmltopdf
   pacman: wkhtmltopdf
   scoop: wkhtmltopdf

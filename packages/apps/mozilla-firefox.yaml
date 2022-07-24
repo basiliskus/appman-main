@@ -6,4 +6,5 @@ labels:
 formulas:
   apt: firefox
   choco: firefox
+  dnf: firefox
   winget: Mozilla.Firefox

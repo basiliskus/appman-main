@@ -8,5 +8,6 @@ labels:
   - db
 formulas:
   apt: sqlite3
+  dnf: sqlite
   pacman: sqlite
   scoop: sqlite

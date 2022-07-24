@@ -7,5 +7,6 @@ formulas:
   apt: vlc
   brew: vlc
   choco: vlc
+  dnf: vlc
   pacman: vlc
   winget: VideoLAN.VLC

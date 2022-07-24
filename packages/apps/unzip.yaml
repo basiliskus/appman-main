@@ -6,4 +6,5 @@ labels:
 formulas:
   apt: unzip
   brew: unzip
+  dnf: unzip
   pacman: unzip

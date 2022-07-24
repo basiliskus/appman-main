@@ -7,5 +7,6 @@ labels:
 formulas:
   apt: neovim
   brew: neovim
+  dnf: neovim
   pacman: neovim
   scoop: neovim

@@ -9,5 +9,6 @@ labels:
 formulas:
   apt: nginx
   brew: nginx
+  dnf: nginx
   pacman: nginx
   scoop: nginx

@@ -9,6 +9,7 @@ labels:
 formulas:
   brew: duf
   choco: duf
+  dnf: duf
   go: github.com/muesli/duf
   pacman: duf
   scoop: duf

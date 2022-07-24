@@ -9,5 +9,6 @@ formulas:
   apt: ripgrep
   brew: ripgrep
   cargo: ripgrep
+  dnf: ripgrep
   pacman: ripgrep
   scoop: ripgrep

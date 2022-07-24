@@ -8,6 +8,7 @@ formulas:
   apt: gpg
   brew: gnupg
   choco: gnupg
+  dnf: gnupg2
   pacman: gnupg
   scoop: gnupg
   winget: GnuPG.GnuPG

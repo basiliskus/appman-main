@@ -10,6 +10,7 @@ formulas:
   apt: python3.9
   brew: python
   choco: python
+  dnf: python
   pacman: python
   scoop: python
   winget: Python.Python

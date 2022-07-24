@@ -7,4 +7,5 @@ labels:
   - editor
 formulas:
   pacman: vim
+  dnf: vim-enhanced
   scoop: vim

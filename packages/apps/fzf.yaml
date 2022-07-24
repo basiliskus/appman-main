@@ -8,5 +8,6 @@ formulas:
   apt: fzf
   brew: fzf
   choco: fzf
+  dnf: fzf
   pacman: fzf
   scoop: fzf

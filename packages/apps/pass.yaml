@@ -5,4 +5,5 @@ labels:
   - security
 formulas:
   apt: pass
+  dnf: pass
   pacman: pass
